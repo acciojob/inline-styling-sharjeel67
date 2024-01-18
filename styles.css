@@ -4,5 +4,8 @@ body{
 	text-align:center;
 }
 #f1{
-	position:inline;
+	display:inline;
+}
+#f2{
+	display:inline;
 }
